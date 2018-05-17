@@ -1,0 +1,22 @@
+/*
+ * Base structure
+ */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+}
+
+
+/*
+ * Map
+ */
+#map {
+    height: 100%;
+    width: 100%;
+}
